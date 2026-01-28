@@ -52,15 +52,15 @@ export default function PortfolioSection() {
   const projects = [
     {
       id: 1,
-      title: "DGFASLI - Riveyra Infotech Website Redesign",
+      title: "A great project title is concise, descriptive, and highlights the core ",
       category: "web",
       images: [
-        "images/projectimg/pro_1.1.jpg",
-        "images/projectimg/pro_1.2.jpg",
-        "images/projectimg/pro_1.3.jpg",
+        "/images.jpg",
+        "/images.jpg",
+        "/images.jpg",
       ],
       description:
-        "Riveyra Infotech, a web development agency, has redesigned their website. Our goal was to create a user-friendly and responsive online platform to enhance the organization's online presence, ensuring accessibility on all devices, including mobile phones and laptops, for round-the-clock operations.",
+        `It should be unique and memorable while clearly conveying the project's focus to its intended audience. Effective titles avoid jargon and are often 5-15 words long, balancing technical detail with clarity. `,
       technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
       duration: "3 months",
       team: "5 members",
@@ -74,178 +74,49 @@ export default function PortfolioSection() {
     },
     {
       id: 2,
-      title: "SDRF File Management System",
-      category: "erp",
+      title: "A great project title is concise, descriptive, and highlights the core ",
+      category: "web",
       images: [
-        "images/projectimg/pro_2.1.png",
-        "images/projectimg/pro_2.2.png",
-        "images/projectimg/pro_2.3.png",
+        "/images.jpg",
+        "/images.jpg",
+        "/images.jpg",
       ],
       description:
-        "Don't hassle with paper records instead experience the convenience of our state-of-the-art File Management System and ERPs. Retrieve all your records effortlessly with a single click, while enjoying smooth operations and robust security measures for a seamless and secure data management experience.",
-      technologies: ["PHP", "Laravel", "MySQL", "Bootstrap"],
-      duration: "4 months",
-      team: "7 members",
+        `It should be unique and memorable while clearly conveying the project's focus to its intended audience. Effective titles avoid jargon and are often 5-15 words long, balancing technical detail with clarity. `,
+      technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+      duration: "3 months",
+      team: "5 members",
       results: [
-        { metric: "100%", label: "Digital Records" },
-        { metric: "1-Click", label: "Retrieval" },
-        { metric: "Enterprise", label: "Security" },
+        { metric: "+75%", label: "Traffic" },
+        { metric: "+45%", label: "Conversion" },
+        { metric: "24/7", label: "Operations" },
       ],
       testimonial:
-        "Exceptional experience with the SDRF website! The user-friendly interface, coupled with comprehensive and up-to-date information, made navigating and researching a breeze",
+        "Very much impressed by the website's seamless responsiveness and user-friendly design. A top-notch online experience!",
     },
     {
       id: 3,
-      title: "NIEDO - Innovative Website Solutions",
+      title: "A great project title is concise, descriptive, and highlights the core ",
       category: "web",
       images: [
-        "images/projectimg/pro_3.1.png",
-        "images/projectimg/pro_3.2.png",
-        "images/projectimg/pro_3.3.png",
+        "/images.jpg",
+        "/images.jpg",
+        "/images.jpg",
       ],
       description:
-        "Transforming User Engagement Round-the-Clock through Innovative Website Solutions. Our developed websites are renowned for their reliability, user-friendliness, and seamless responsiveness across all devices.",
-      technologies: ["React", "Express.js", "PostgreSQL", "CSS3"],
-      duration: "5 months",
-      team: "6 members",
+        `It should be unique and memorable while clearly conveying the project's focus to its intended audience. Effective titles avoid jargon and are often 5-15 words long, balancing technical detail with clarity. `,
+      technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+      duration: "3 months",
+      team: "5 members",
       results: [
-        { metric: "24/7", label: "Engagement" },
-        { metric: "99.9%", label: "Reliability" },
-        { metric: "100%", label: "Responsive" },
+        { metric: "+75%", label: "Traffic" },
+        { metric: "+45%", label: "Conversion" },
+        { metric: "24/7", label: "Operations" },
       ],
       testimonial:
-        "This website stands out with its enhanced structure, fostering a seamless user experience. The UI/UX not only captivates but also makes navigating much easier. They are setting a new standard for excellence in website development.",
+        "Very much impressed by the website's seamless responsiveness and user-friendly design. A top-notch online experience!",
     },
-    {
-      id: 4,
-      title: "Skin Miracle Kanpur - Doctor Appointment Platform",
-      category: "healthcare",
-      images: [
-        "images/projectimg/pro_4.1.png",
-        "images/projectimg/pro_4.2.png",
-        "images/projectimg/pro_4.3.png",
-      ],
-      description:
-        "Revolutionize how patients discover and book appointments with doctors. Explore nearby clinics effortlessly, and say goodbye to the hassle of early visits for appointments. Discover curated clinics, read reviews, and make informed choices. Our user-friendly website facilitates seamless appointment booking.",
-      technologies: ["React", "Node.js", "MongoDB", "Socket.io"],
-      duration: "5 months",
-      team: "8 members",
-      results: [
-        { metric: "10K+", label: "Bookings" },
-        { metric: "500+", label: "Clinics" },
-        { metric: "4.8/5", label: "Rating" },
-      ],
-      testimonial:
-        "It is really easy to use! I had no trouble booking an appointment and talking to the doctor. Not all websites are this easy, so it made everything simple and quick.",
-    },
-    {
-      id: 5,
-      title: "Mangalam Studio - Photography Booking Platform",
-      category: "web",
-      images: [
-        "images/projectimg/pro_5.1.jpg",
-        "images/projectimg/pro_5.2.jpg",
-        "images/projectimg/pro_5.3.jpg",
-      ],
-      description:
-        "Booking, reviewing testimonials and reaching out to book a photographer for either of your need be it your wedding, birthday or anniversary has never been so easy. But simplify this tedious process through our user-friendly website.",
-      technologies: ["PHP", "Laravel", "MySQL", "JavaScript"],
-      duration: "4 months",
-      team: "6 members",
-      results: [
-        { metric: "1000+", label: "Bookings" },
-        { metric: "50+", label: "Photographers" },
-        { metric: "4.9/5", label: "Reviews" },
-      ],
-      testimonial:
-        "I really like using this website to book photographers! It's so simple to find one for my wedding, birthday, or anniversary. Being able to read reviews and reach out through testimonials is a great feature. I highly recommend it!",
-    },
-    {
-      id: 6,
-      title: "Yashraj College of Nursing Website And ERP",
-      category: "web",
-      images: [
-        "images/projectimg/pro_6.1.png",
-        "images/projectimg/pro_6.2.png",
-        "images/projectimg/pro_6.3.png",
-      ],
-      description:
-        "We designed a modern, responsive website for Yashraj College to effectively showcase their Nursing and Pharmacy programs. The platform ensures easy access to information for students, parents, and aspiring professionals.",
-      technologies: ["Laravel", "Bootstrap 5", "MySQL", "HTML5", "CSS3", "JavaScript"],
-      duration: "4 months",
-      team: "6 members",
-      results: [
-        { metric: "2000+", label: "Students" },
-        { metric: "95%", label: "Satisfaction" },
-        { metric: "+70%", label: "Enrollment" },
-      ],
-      testimonial: "Excellent platform for accessing college information and managing academic processes efficiently.",
-    },
-    {
-      id: 7,
-      title: "Chhattisgarh Samvad - Outdoor Media Monitoring",
-      category: "app",
-      images: [
-        "images/projectimg/pro_7.1.png",
-        "images/projectimg/pro_7.2.png",
-        "images/projectimg/pro_7.3.png",
-      ],
-      description:
-        "We developed a user-friendly Outdoor Media Monitoring App to efficiently manage and track advertising campaigns. The platform enables real-time hoarding ID management, image capturing, and campaign verification, ensuring complete control and transparency.",
-      technologies: ["Laravel", "Bootstrap 5", "MySQL", "HTML5", "CSS3", "JavaScript"],
-      duration: "5 months",
-      team: "7 members",
-      results: [
-        { metric: "Real-time", label: "Monitoring" },
-        { metric: "100%", label: "Transparency" },
-        { metric: "Efficient", label: "Management" },
-      ],
-      testimonial: "Outstanding solution for outdoor media campaign management with excellent tracking capabilities.",
-    },
-    {
-      id: 8,
-      title: "Directorate General of Human Resource Development",
-      category: "web",
-      images: [
-        "images/projectimg/pro_8.1.png",
-        "images/projectimg/pro_8.2.png",
-        "images/projectimg/pro_8.3.png",
-      ],
-      description:
-        "We designed an informative and structured website for the Directorate of Human Resource Development, CBIC. The platform highlights their role in workforce development and infrastructure growth, supporting CBIC's mission of efficient tax administration and optimized revenue collection.",
-      technologies: ["Laravel", "Bootstrap 5", "MySQL", "HTML5", "CSS3", "JavaScript"],
-      duration: "5 months",
-      team: "8 members",
-      results: [
-        { metric: "Government", label: "Grade Portal" },
-        { metric: "99.8%", label: "Uptime" },
-        { metric: "+65%", label: "User Engagement" },
-      ],
-      testimonial:
-        "Professional and comprehensive platform that effectively serves the government's HR development needs.",
-    },
-    {
-      id: 9,
-      title: "Findure - Your Gateway to Local Service Discovery",
-      category: "app",
-      images: [
-        "images/projectimg/pro_9.1.jgp",
-        "images/projectimg/pro_9.2.jpg",
-        "images/projectimg/pro_9.3.jpg",
-      ],
-      description:
-        "Smart and scalable location-based service discovery app built using the MERN Stack. Search begins from a 3km radius and expands to 15km if needed. Covers everything from restaurants, salons, pest control, AC repair to hospitals and emergency services with real-time geolocation filtering.",
-      technologies: ["React Native", "Node.js", "MongoDB", "Express.js"],
-      duration: "6 months",
-      team: "8 members",
-      results: [
-        { metric: "15km", label: "Search Radius" },
-        { metric: "50+", label: "Categories" },
-        { metric: "Real-time", label: "Geolocation" },
-      ],
-      testimonial:
-        "Innovative solution for local service discovery with excellent geolocation features and comprehensive service coverage.",
-    },
+
   ]
 
   const filteredProjects =
@@ -456,11 +327,10 @@ export default function PortfolioSection() {
             <motion.button
               key={category.id}
               onClick={() => handleCategoryChange(category.id)}
-              className={`group relative px-3 md:px-6 py-2 md:py-3 rounded-xl text-xs md:text-sm font-semibold transition-all duration-300 ${
-                selectedCategory === category.id
-                  ? "bg-gradient-to-r from-green-500 to-emerald-500 text-black shadow-lg shadow-green-500/25"
-                  : "bg-gray-800/50 text-gray-300 hover:bg-gray-700/50 border border-green-500/20 hover:border-green-400/40"
-              }`}
+              className={`group relative px-3 md:px-6 py-2 md:py-3 rounded-xl text-xs md:text-sm font-semibold transition-all duration-300 ${selectedCategory === category.id
+                ? "bg-gradient-to-r from-green-500 to-emerald-500 text-black shadow-lg shadow-green-500/25"
+                : "bg-gray-800/50 text-gray-300 hover:bg-gray-700/50 border border-green-500/20 hover:border-green-400/40"
+                }`}
               initial={{ opacity: 0, scale: 0.9 }}
               animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.9 }}
               transition={{ duration: 0.4, delay: 0.9 + index * 0.1 }}
@@ -746,11 +616,10 @@ export default function PortfolioSection() {
                                   <button
                                     key={index}
                                     onClick={() => setCurrentImageIndex(index)}
-                                    className={`w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full transition-all duration-300 ${
-                                      index === currentImageIndex
-                                        ? "bg-green-400 w-3 sm:w-4"
-                                        : "bg-white/50 hover:bg-white/70"
-                                    }`}
+                                    className={`w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full transition-all duration-300 ${index === currentImageIndex
+                                      ? "bg-green-400 w-3 sm:w-4"
+                                      : "bg-white/50 hover:bg-white/70"
+                                      }`}
                                   />
                                 ))}
                               </div>
@@ -932,9 +801,8 @@ export default function PortfolioSection() {
                   resetUserInteraction()
                   setCurrentSlide(index)
                 }}
-                className={`relative overflow-hidden rounded-full transition-all duration-500 ${
-                  index === currentSlide ? "w-6 md:w-8 h-2 md:h-3 bg-green-400" : "w-2 md:w-3 h-2 md:h-3 bg-gray-600"
-                }`}
+                className={`relative overflow-hidden rounded-full transition-all duration-500 ${index === currentSlide ? "w-6 md:w-8 h-2 md:h-3 bg-green-400" : "w-2 md:w-3 h-2 md:h-3 bg-gray-600"
+                  }`}
                 whileHover={{ scale: 1.2 }}
                 whileTap={{ scale: 0.9 }}
                 initial={{ opacity: 0, scale: 0.8 }}
@@ -959,7 +827,7 @@ export default function PortfolioSection() {
         </div>
 
         {/* CTA Section - Hidden on mobile */}
-       
+
       </div>
     </section>
   )

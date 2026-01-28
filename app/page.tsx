@@ -22,7 +22,7 @@ export default function Home () {
 
   useEffect(() => {
     // Loader animation - reduced time from 2000ms to 1200ms
-    const loaderTimeout = setTimeout(() => setShowLoader(false), 1200)
+    const loaderTimeout = setTimeout(() => setShowLoader(false), 3000)
 
     // GSAP ScrollTrigger animations
     gsap.fromTo(
@@ -108,12 +108,12 @@ export default function Home () {
               transition={{ duration: 0.6, ease: 'easeOut' }}
               className='text-center'
             >
-              <div className='relative w-40 h-28 bg-black rounded-2xl flex items-center justify-center mb-6 mx-auto shadow-2xl border border-green-500/20 overflow-hidden'>
+              <div className='relative w-60 h-40  rounded-2xl flex items-center justify-center mb-6 mx-auto shadow-2xl border border-green-500/20 overflow-hidden'>
                 <Image
-                  src={getAsset('/openinglogo.png')}
+                  src={getAsset('/loader.gif')}
                   alt='Logo'
                   fill
-                  className='object-cover rounded-2xl opacity-20'
+                  className='object-cover rounded-2xl '
                 />
               </div>
 

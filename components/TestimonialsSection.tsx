@@ -52,17 +52,17 @@ export default function TestimonialsSection() {
 
   // Company logos for infinite slider
   const companyLogos = [
-    { name: "NIEDO", logo: "images/clientimg/niedo.jpg" },
-    { name: "Central Water Commission", logo: "images/clientimg/client-3.png" },
-    { name: "NDRF", logo: "images/clientimg/client-1.jpg" },
-    { name: "DGRASU", logo: "images/clientimg/client-6.png" },
-    { name: "Educational Institute", logo: "images/clientimg/client5.jpeg" },
+    { name: "NIEDO", logo: "images/clientimg/niedo.jpg", image: '/images.jpg' },
+    { name: "Central Water Commission", logo: "images/clientimg/client-3.png", image: '/images.jpg' },
+    { name: "NDRF", logo: "images/clientimg/client-1.jpg", image: '/images.jpg' },
+    { name: "DGRASU", logo: "images/clientimg/client-6.png", image: '/images.jpg' },
+    { name: "Educational Institute", logo: "images/clientimg/client5.jpeg", image: '/images.jpg' },
     // Repeat for seamless loop
-    { name: "NIEDO", logo: "images/clientimg/niedo.jpg" },
-    { name: "Central Water Commission", logo: "images/clientimg/client-3.png" },
-    { name: "NDRF", logo: "images/clientimg/client-1.jpg" },
-    { name: "DGRASU", logo: "images/clientimg/client-6.png" },
-    { name: "Educational Institute", logo: "images/clientimg/client5.jpeg" },
+    { name: "NIEDO", logo: "images/clientimg/niedo.jpg", image: '/images.jpg' },
+    { name: "Central Water Commission", logo: "images/clientimg/client-3.png", image: '/images.jpg' },
+    { name: "NDRF", logo: "images/clientimg/client-1.jpg", image: '/images.jpg' },
+    { name: "DGRASU", logo: "images/clientimg/client-6.png", image: '/images.jpg' },
+    { name: "Educational Institute", logo: "images/clientimg/client5.jpeg", image: '/images.jpg' },
   ]
 
   // Auto-slide functionality
@@ -144,7 +144,7 @@ export default function TestimonialsSection() {
                     <div className="absolute inset-0 bg-gradient-to-r from-green-500/5 to-emerald-500/5 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
 
                     <img
-                      src={company.logo || "/placeholder.svg"}
+                      src={company.image || "/placeholder.svg"}
                       alt={company.name}
                       className="w-32 h-32 rounded-full object-cover relative z-10 transition-all duration-500"
                     />
@@ -275,9 +275,8 @@ export default function TestimonialsSection() {
               <motion.button
                 key={index}
                 onClick={() => setCurrentSlide(index)}
-                className={`relative overflow-hidden rounded-full transition-all duration-500 ${
-                  index === currentSlide ? "w-8 h-3 bg-green-400" : "w-3 h-3 bg-gray-600"
-                }`}
+                className={`relative overflow-hidden rounded-full transition-all duration-500 ${index === currentSlide ? "w-8 h-3 bg-green-400" : "w-3 h-3 bg-gray-600"
+                  }`}
                 whileHover={{ scale: 1.2 }}
                 whileTap={{ scale: 0.9 }}
               >
@@ -302,14 +301,13 @@ export default function TestimonialsSection() {
             return (
               <motion.div
                 key={index}
-                className={`bg-gray-900/30 backdrop-blur-sm border border-green-500/10 rounded-xl p-4 sm:p-6 hover:bg-gray-800/30 transition-all duration-500 relative overflow-hidden group ${
-                  isHighlighted ? "border-green-400/80 scale-105" : ""
-                }`}
+                className={`bg-gray-900/30 backdrop-blur-sm border border-green-500/10 rounded-xl p-4 sm:p-6 hover:bg-gray-800/30 transition-all duration-500 relative overflow-hidden group ${isHighlighted ? "border-green-400/80 scale-105" : ""
+                  }`}
                 style={{
                   ...(isHighlighted
                     ? {
-                        boxShadow: "0 0 10px rgba(74, 222, 128, 0.5)",
-                      }
+                      boxShadow: "0 0 10px rgba(74, 222, 128, 0.5)",
+                    }
                     : {}),
                 }}
                 initial={{ opacity: 0, y: 30, scale: 0.95 }}
