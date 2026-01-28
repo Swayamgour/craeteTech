@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     description:
       "Leading IT services and consulting company with over 8 years of proven excellence in offshore IT industry.",
     images: ["/logo.png"],
-    creator: "@RiveyraInfotech",
+    creator: "@CreateTech",
   },
   robots: {
     index: true,
