@@ -12,7 +12,7 @@ import { getAsset } from './util/getAsset'
 
 gsap.registerPlugin(ScrollTrigger)
 
-export default function Navbar () {
+export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
   const [isScrolled, setIsScrolled] = useState(false)
   const [isServicesOpen, setIsServicesOpen] = useState(false)
@@ -231,11 +231,10 @@ export default function Navbar () {
 
   return (
     <nav
-      className={`navbar fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled
+      className={`navbar fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
           ? 'bg-black/80 backdrop-blur-xl border-b border-green-500/30 shadow-2xl shadow-green-500/20'
           : 'bg-transparent'
-      }`}
+        }`}
     >
       <div className='container mx-auto px-6'>
         <div className='flex items-center justify-between h-20'>
@@ -248,7 +247,7 @@ export default function Navbar () {
               <div className='w-48 h-12 sm:w-60 sm:h-14 md:w-72 md:h-16 bg-transparent rounded-xl flex items-center justify-center'>
                 <img
                   // src='/logo.png'
-                  src={getAsset('/logo1.png')}
+                  src={'/logo1.png'}
                   alt='Craete Tech'
                   className='w-40 h-10 sm:w-52 sm:h-12 md:w-60 md:h-14 object-contain'
                 />
@@ -269,9 +268,8 @@ export default function Navbar () {
                     <div className='nav-item relative text-gray-300 hover:text-white transition-colors duration-200 font-medium group flex items-center cursor-pointer'>
                       {item.name}
                       <ChevronDown
-                        className={`w-4 h-4 ml-1 transition-transform duration-200 ${
-                          isServicesOpen ? 'rotate-180' : ''
-                        }`}
+                        className={`w-4 h-4 ml-1 transition-transform duration-200 ${isServicesOpen ? 'rotate-180' : ''
+                          }`}
                       />
                       <div className='absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-green-400 to-emerald-400 group-hover:w-full transition-all duration-200'></div>
                     </div>
@@ -415,7 +413,7 @@ export default function Navbar () {
                 <div className='absolute inset-0 bg-gradient-to-r from-emerald-500 to-green-500 opacity-0 group-hover:opacity-100 transition-opacity duration-200'></div>
                 <div className='relative flex items-center space-x-2'>
                   <Phone className='w-4 h-4' />
-                  <span>+91 9919888269</span>
+                  <span>+91 8299619919</span>
                 </div>
               </Button>
             </Link>
@@ -451,9 +449,8 @@ export default function Navbar () {
                       >
                         <span>{item.name}</span>
                         <ChevronDown
-                          className={`w-4 h-4 transition-transform duration-200 ${
-                            isServicesOpen ? 'rotate-180' : ''
-                          }`}
+                          className={`w-4 h-4 transition-transform duration-200 ${isServicesOpen ? 'rotate-180' : ''
+                            }`}
                         />
                       </button>
                       <AnimatePresence>

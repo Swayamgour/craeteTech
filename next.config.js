@@ -8,12 +8,12 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: isProd ? '/RiveyraNew' : '',
-  assetPrefix: isProd ? '/RiveyraNew/' : '',
+  // basePath: isProd ? '/RiveyraNew' : '',
+  // assetPrefix: isProd ? '/RiveyraNew/' : '',
 
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
+  // eslint: {
+  //   ignoreDuringBuilds: true,
+  // },
   typescript: {
     ignoreBuildErrors: true,
   },

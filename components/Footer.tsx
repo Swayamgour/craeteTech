@@ -135,7 +135,7 @@ export default function Footer () {
               <div className='flex items-center space-x-3'>
                 <div className='w-48 sm:w-60 h-12 sm:h-14 bg-transparent rounded-xl flex items-center justify-center'>
                   <motion.img
-                    src={getAsset('/logo1.png')}
+                    src={'/logo1.png'}
                     alt='Craete Tech Logo'
                     className='w-full h-full object-contain'
                     initial={{ scale: 0.8, opacity: 0 }}
@@ -198,7 +198,7 @@ export default function Footer () {
                 <div className='flex items-center space-x-3'>
                   <Phone className='w-5 h-5 text-green-400 flex-shrink-0' />
                   <div className='space-y-1'>
-                    <p className='text-gray-300 text-sm'>+91 9919888269</p>
+                    <p className='text-gray-300 text-sm'>+91 8299619919</p>
                     <p className='text-gray-300 text-sm'>+91 9219934954</p>
                   </div>
                 </div>
