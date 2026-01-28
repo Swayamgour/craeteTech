@@ -36,7 +36,7 @@ const services = [
     id: "02",
     title: "We Will Help You Get Your Target Audience",
     description:
-      "Every Business Has Its Target Audience. Riveyra Infotech Knows That Your Business Requires Individual Attention And It Has Different Audience. We Help You Achieve Your Target Audience Socially As Well As Internationally.",
+      "Every Business Has Its Target Audience. Craete Tech Knows That Your Business Requires Individual Attention And It Has Different Audience. We Help You Achieve Your Target Audience Socially As Well As Internationally.",
     icon: Target,
   },
   {
@@ -71,14 +71,14 @@ const services = [
     id: "07",
     title: "Dedication, Serious Effort And Positive Results",
     description:
-      "We Do Riveyra Infotech Know That Social Media Is A Platform That If Triggered Properly Can Generate Hundreds And Thousands Of Leads. At The Same Time It Is One Of The Most Time Consuming Internet Marketing Strategies. Due To This Reason, Most Of The Social Media Marketing Do This Business In Haste. As A Result, The Campaign Will Fall Down. The Dedication Required By Social Media Is Half Easy To Work. We Know You That Dedication, Serious Effort And Positive Results Are The Three Pillars Of Social Media Marketing. As Well You Use Your Business Receives The Height That You Once Dreamt Of.",
+      "We Do Craete Tech Know That Social Media Is A Platform That If Triggered Properly Can Generate Hundreds And Thousands Of Leads. At The Same Time It Is One Of The Most Time Consuming Internet Marketing Strategies. Due To This Reason, Most Of The Social Media Marketing Do This Business In Haste. As A Result, The Campaign Will Fall Down. The Dedication Required By Social Media Is Half Easy To Work. We Know You That Dedication, Serious Effort And Positive Results Are The Three Pillars Of Social Media Marketing. As Well You Use Your Business Receives The Height That You Once Dreamt Of.",
     icon: TrendingUp,
   },
   {
     id: "08",
-    title: "Riveyra Infotech Believes Social Media Is A Mixture Of SEO And Content Marketing",
+    title: "Craete Tech Believes Social Media Is A Mixture Of SEO And Content Marketing",
     description:
-      "Social Media Does Not Work Alone. Instead Social Media Marketing Never Happens In Business SEO And Content Marketing. For Example, A Car That Social Media Platforms like Facebook, Twitter, LinkedIn, Google+ Or YouTube Need Content To Go To The Next Level. Understanding Of This Business Is Helpful. As A Result, We Have A Team Of Content Writers, SEO Experts And Social Media Experts. All Uses Second Or Third Based Internet Page. We Do Riveyra Infotech Pay Special Attention To Detailed Aspect Of Your Social Media Like. We Keep Eyes On Every Single Comment, Like, Share And Even The View. We Have A Team Of Experienced Of Course Something. For The Change View Survey For Their Business. Our Team Is Experienced Enough To Work And For The Change View Survey For Their Business.",
+      "Social Media Does Not Work Alone. Instead Social Media Marketing Never Happens In Business SEO And Content Marketing. For Example, A Car That Social Media Platforms like Facebook, Twitter, LinkedIn, Google+ Or YouTube Need Content To Go To The Next Level. Understanding Of This Business Is Helpful. As A Result, We Have A Team Of Content Writers, SEO Experts And Social Media Experts. All Uses Second Or Third Based Internet Page. We Do Craete Tech Pay Special Attention To Detailed Aspect Of Your Social Media Like. We Keep Eyes On Every Single Comment, Like, Share And Even The View. We Have A Team Of Experienced Of Course Something. For The Change View Survey For Their Business. Our Team Is Experienced Enough To Work And For The Change View Survey For Their Business.",
     icon: BarChart3,
   },
   {
@@ -92,7 +92,7 @@ const services = [
     id: "10",
     title: "We Will Help You Get Your Target Audience",
     description:
-      "Every Business Has Its Target Audience. Riveyra Infotech Knows That Your Business Requires Individual Attention And It Has Different Audience. We Help You Achieve Your Target Audience Socially As Well As Internationally.",
+      "Every Business Has Its Target Audience. Craete Tech Knows That Your Business Requires Individual Attention And It Has Different Audience. We Help You Achieve Your Target Audience Socially As Well As Internationally.",
     icon: Target,
   },
   {
@@ -131,12 +131,12 @@ const faqs = [
       "We create diverse content including engaging posts, stories, reels, videos, infographics, blog articles, and interactive content tailored to each platform's unique requirements and your brand voice.",
   },
   {
-    question: "How frequently does Riveyra Infotech recommend updating content on our socials?",
+    question: "How frequently does Craete Tech recommend updating content on our socials?",
     answer:
       "We recommend posting consistently based on platform best practices - typically 1-2 times daily for Facebook, 3-5 times for Twitter, and 1-2 times for Instagram, with stories and reels posted more frequently.",
   },
   {
-    question: "How does Riveyra Infotech ensure that content resonates with our target audience?",
+    question: "How does Craete Tech ensure that content resonates with our target audience?",
     answer:
       "We conduct thorough audience research, analyze demographics and behavior patterns, create buyer personas, and continuously monitor engagement metrics to ensure content resonates with your specific target audience.",
   },
@@ -253,9 +253,9 @@ export default function SocialMediaMarketingPage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.4 }}
               >
-                Riveyra Infotech offers you social media consulting and ultimate solution to all of your social media
+                Craete Tech offers you social media consulting and ultimate solution to all of your social media
                 marketing problems. Social Media marketing has its own rules and regulations that are functioning. Only
-                a professional like Riveyra Infotech can help you get your word out to a majority of people.
+                a professional like Craete Tech can help you get your word out to a majority of people.
               </motion.p>
 
               <motion.p

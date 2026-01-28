@@ -10,14 +10,14 @@ import Footer from "@/components/Footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Riveyra Infotech - Digital Marketing & Development Services",
+  title: "Create Tech - Digital Marketing & Development Services",
   description:
     "Leading IT services and consulting company with over 8 years of proven excellence in offshore IT industry. Specializing in Digital Marketing and Development services.",
   keywords:
     "digital marketing, web development, SEO, PPC, social media marketing, UI/UX design, mobile app development",
-  authors: [{ name: "Riveyra Infotech" }],
-  creator: "Riveyra Infotech",
-  publisher: "Riveyra Infotech",
+  authors: [{ name: "Create Tech" }],
+  creator: "Create Tech",
+  publisher: "Create Tech",
   formatDetection: {
     email: false,
     address: false,
@@ -28,17 +28,17 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Riveyra Infotech - Digital Marketing & Development Services",
+    title: "Create Tech - Digital Marketing & Development Services",
     description:
       "Leading IT services and consulting company with over 8 years of proven excellence in offshore IT industry.",
     url: "https://riveyrainfotch.com",
-    siteName: "Riveyra Infotech",
+    siteName: "Create Tech",
     images: [
       {
         url: "/logo.png",
         width: 1200,
         height: 630,
-        alt: "Riveyra Infotech Logo",
+        alt: "Create Tech Logo",
       },
     ],
     locale: "en_US",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Riveyra Infotech - Digital Marketing & Development Services",
+    title: "Create Tech - Digital Marketing & Development Services",
     description:
       "Leading IT services and consulting company with over 8 years of proven excellence in offshore IT industry.",
     images: ["/logo.png"],

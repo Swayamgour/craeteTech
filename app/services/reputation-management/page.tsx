@@ -75,7 +75,7 @@ const faqs = [
       "Reputation management is the practice of monitoring, influencing, and managing your business's online reputation. It's crucial because potential customers often research businesses online before making purchasing decisions. A positive online reputation builds trust, credibility, and can significantly impact your bottom line.",
   },
   {
-    question: "How does Company Riveyra Infotech handle crises or urgent reputation issues?",
+    question: "How does Company Craete Tech handle crises or urgent reputation issues?",
     answer:
       "We have a dedicated crisis management team that responds immediately to urgent reputation issues. Our rapid response protocol includes immediate assessment, strategic counter-messaging, SEO optimization to suppress negative content, and proactive communication with stakeholders to minimize damage.",
   },
@@ -156,7 +156,7 @@ export default function ReputationManagementPage() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8, delay: 0.6 }}
                 >
-                  At Riveyra Infotech, we take great satisfaction in offering our clients reputation management services
+                  At Craete Tech, we take great satisfaction in offering our clients reputation management services
                   of the highest grade that provide noticeable outcomes. Our method is based on a calculated fusion of
                   industry knowledge, laborious preparation, and a dedication to engaging optimization in order to
                   customize our reputation management campaigns to meet our client's specific needs—whether it be

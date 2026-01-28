@@ -224,7 +224,7 @@ export default function ChatWidget({ isOpen, onClose }: ChatWidgetProps) {
             {/* Powered by */}
             <div className="mt-2 text-center">
               <p className="text-xs text-gray-400">
-                Powered by <span className="text-green-600 font-semibold">Riveyra Infotech</span>
+                Powered by <span className="text-green-600 font-semibold">Craete Tech</span>
               </p>
             </div>
           </div>

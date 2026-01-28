@@ -763,7 +763,7 @@ export default function ContactPage() {
                       </div>
                       <div className="min-w-0 flex-1">
                         <h4 className="font-bold text-gray-900 text-sm sm:text-base lg:text-lg mb-1">
-                          Riveyra Infotech
+                          Craete Tech
                         </h4>
                         <p className="text-gray-600 text-xs sm:text-sm leading-relaxed mb-2 sm:mb-3 break-words">
                           8th Floor, UPSIDC Ltd, STP1, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024

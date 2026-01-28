@@ -17,7 +17,7 @@ export default function AboutPage() {
   const missionData = {
     title: "Our Mission",
     description:
-      "Riveyra Infotech is a web development company aims at providing the best services regarding the website and software development. We provide comprehensive and integrated IT services that includes software development, Website design and development, Mobile application development, Mobile website development, Search Engine Optimization, Online marketing, Graphics Design as well as development and implementation of high quality business domain applications. Our goal is to provide high quality and cost effective services to the internet and IT outsourcing community and business who wish to maximize their reach by harnessing the unlimited power of information technology.",
+      "Craete Tech is a web development company aims at providing the best services regarding the website and software development. We provide comprehensive and integrated IT services that includes software development, Website design and development, Mobile application development, Mobile website development, Search Engine Optimization, Online marketing, Graphics Design as well as development and implementation of high quality business domain applications. Our goal is to provide high quality and cost effective services to the internet and IT outsourcing community and business who wish to maximize their reach by harnessing the unlimited power of information technology.",
     statementTitle: "Mission Statement",
     points: [
       "Be compassionate and transparent with our clients.",
@@ -32,7 +32,7 @@ export default function AboutPage() {
   const visionData = {
     title: "Our Vision",
     description:
-      "Riveyra Infotech is a web development company aims at providing the best services regarding the website and software development. We provide comprehensive and integrated IT services that includes software development, Website design and development, Mobile application development, Mobile website development, Search Engine Optimization, Online marketing, Graphics Design as well as development and implementation of high quality business domain applications. Our goal is to provide high quality and cost effective services to the internet and IT outsourcing community and business who wish to maximize their reach by harnessing the unlimited power of information technology.",
+      "Craete Tech is a web development company aims at providing the best services regarding the website and software development. We provide comprehensive and integrated IT services that includes software development, Website design and development, Mobile application development, Mobile website development, Search Engine Optimization, Online marketing, Graphics Design as well as development and implementation of high quality business domain applications. Our goal is to provide high quality and cost effective services to the internet and IT outsourcing community and business who wish to maximize their reach by harnessing the unlimited power of information technology.",
     statementTitle: "Vision Statement",
     points: [
       "To deliver creative solutions that continually break new ground.",
@@ -140,7 +140,7 @@ export default function AboutPage() {
               <span className="bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
                 IT Solutions
               </span>{" "}
-              with Riveyra Infotech.
+              with Craete Tech.
             </h1>
           </motion.div>
 
@@ -154,7 +154,7 @@ export default function AboutPage() {
             <div className="bg-gradient-to-r from-gray-900/50 to-black/50 backdrop-blur-lg rounded-2xl p-8 border border-green-500/20">
               <h2 className="text-3xl font-bold text-green-400 mb-6">About Company</h2>
               <p className="text-gray-300 text-lg leading-relaxed">
-                Riveyra Infotech is a software development company that has been successfully present on the software
+                Craete Tech is a software development company that has been successfully present on the software
                 development market for over 4 years and since that time has grown to become a well-regarded player in
                 this industry and has proven to be a reliable, efficient and trustworthy service provider to the
                 businesses from all over the World. The company has established recognizing the potential of the

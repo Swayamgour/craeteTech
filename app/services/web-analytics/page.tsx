@@ -97,12 +97,12 @@ const benefits = [
 const faqs = [
   {
     question:
-      "Can I track the effectiveness of my online marketing campaigns through Company Riveyra Infotech web analytics services?",
+      "Can I track the effectiveness of my online marketing campaigns through Company Craete Tech web analytics services?",
     answer:
       "Yes, absolutely! Our web analytics services are specifically designed to track and measure the effectiveness of your online marketing campaigns. We set up comprehensive tracking systems that monitor campaign performance, conversion rates, ROI, and user engagement across all your marketing channels.",
   },
   {
-    question: "How do I get started with Company Riveyra Infotech web analytics services?",
+    question: "How do I get started with Company Craete Tech web analytics services?",
     answer:
       "Getting started is simple! Contact us through our website or call us directly. We'll schedule a consultation to understand your business goals, current analytics setup, and requirements. Then we'll create a customized analytics implementation plan tailored to your specific needs.",
   },
@@ -112,7 +112,7 @@ const faqs = [
       "We provide flexible reporting schedules based on your needs. Typically, we offer weekly, monthly, and quarterly reports. For businesses requiring more frequent insights, we can provide daily reports and real-time dashboard access to monitor your website performance continuously.",
   },
   {
-    question: "Can Company Riveyra Infotech integrate with other tools or platforms for a seamless experience?",
+    question: "Can Company Craete Tech integrate with other tools or platforms for a seamless experience?",
     answer:
       "Yes, we specialize in integrating analytics tools with various platforms including CRM systems, marketing automation tools, e-commerce platforms, social media channels, and advertising platforms. This ensures a seamless flow of data and comprehensive insights across all your business tools.",
   },
@@ -232,7 +232,7 @@ export default function WebAnalyticsPage() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 0.8, delay: 0.4 }}
                   >
-                    At Riveyra Infotech, we specialize in comprehensive web analytics solutions that turn your website
+                    At Craete Tech, we specialize in comprehensive web analytics solutions that turn your website
                     data into powerful insights. Our expert team helps you understand user behavior, optimize conversion
                     rates, and make data-driven decisions that drive business growth.
                   </motion.p>

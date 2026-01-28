@@ -139,12 +139,12 @@ export default function UIUXPage() {
     {
       question: "What is the best UI/UX design company in India?",
       answer:
-        "Riveyra Infotech stands out as one of the leading UI/UX design companies in India, offering comprehensive design solutions with a focus on user-centered design, modern aesthetics, and seamless user experiences across all digital platforms.",
+        "Craete Tech stands out as one of the leading UI/UX design companies in India, offering comprehensive design solutions with a focus on user-centered design, modern aesthetics, and seamless user experiences across all digital platforms.",
     },
     {
       question: "What's the best platform to use to hire UI/UX designers?",
       answer:
-        "While there are various platforms available, working directly with established design agencies like Riveyra Infotech ensures you get experienced professionals, consistent quality, ongoing support, and comprehensive project management.",
+        "While there are various platforms available, working directly with established design agencies like Craete Tech ensures you get experienced professionals, consistent quality, ongoing support, and comprehensive project management.",
     },
     {
       question: "What do UI and UX designers do?",
@@ -327,7 +327,7 @@ export default function UIUXPage() {
                   effective digital experiences.
                 </p>
                 <p>
-                  At Riveyra Infotech, we deliver modern UI Designs following the current UI/UX design trends which
+                  At Craete Tech, we deliver modern UI Designs following the current UI/UX design trends which
                   makes us the best UI/UX design agency in the Kanpur. Our UI/UX designers collaborate to create
                   seamless and user-centric design solutions. Our UI designers focus on the look and feel of the
                   product, while UX designers work on optimizing the user journey, ultimately aiming to deliver products

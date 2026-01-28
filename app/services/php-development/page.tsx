@@ -226,7 +226,7 @@ export default function PHPDevelopmentPage() {
               <Card className="bg-gray-900/50 border-green-500/20 backdrop-blur-sm">
                 <CardContent className="p-8">
                   <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                    At Riveyra Infotech, our PHP development services go beyond aesthetics. By incorporating robust
+                    At Craete Tech, our PHP development services go beyond aesthetics. By incorporating robust
                     backend functionalities, we ensure that your website not only looks good but also performs
                     efficiently. PHP's open-source nature allows us to provide cost-effective solutions without
                     compromising on the quality and security of your web applications.

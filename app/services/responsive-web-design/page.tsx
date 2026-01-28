@@ -157,7 +157,7 @@ export default function ResponsiveWebDesignPage() {
         "Responsive design significantly improves SEO by providing better user experience, faster loading times, and mobile-friendly design that search engines favor.",
     },
     {
-      question: "Can Riveyra InfoTech update an existing website to make it responsive?",
+      question: "Can Craete Tech update an existing website to make it responsive?",
       answer:
         "Yes, we specialize in converting existing websites to responsive designs while maintaining all functionality and improving user experience.",
     },
@@ -328,7 +328,7 @@ export default function ResponsiveWebDesignPage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.4 }}
               >
-                That's what we do at Riveyra Infotech Limited, we design and develop websites that work on mobile and
+                That's what we do at Craete Tech Limited, we design and develop websites that work on mobile and
                 desktop devices. We work with you to create a website that is not only responsive but also looks great.
               </motion.p>
 
@@ -529,7 +529,7 @@ export default function ResponsiveWebDesignPage() {
       {/* Industries Section - Square Cards */}
       <ColorfulCardSection
         title="Industries We Serve"
-        subtitle="Riveyra Infotech is dedicated to serving a diverse range of industries, striving to provide excellent services across the board. Our commitment extends to delivering exceptional solutions and we take pride in our comprehensive approach to cater to the unique needs of each industry."
+        subtitle="Craete Tech is dedicated to serving a diverse range of industries, striving to provide excellent services across the board. Our commitment extends to delivering exceptional solutions and we take pride in our comprehensive approach to cater to the unique needs of each industry."
         cards={industries}
         className="bg-gray-900/50"
         isSquare={true}

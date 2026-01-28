@@ -97,7 +97,7 @@ export default function WordpressDevelopmentPage() {
               <p className="text-lg text-gray-300 mb-6 leading-relaxed">
                 WordPress development refers to the process of creating and customizing websites using the WordPress
                 content management system (CMS). WordPress is a popular and versatile platform that allows users to
-                build and manage websites without extensive coding knowledge. At Riveyra Infotech, our developers will
+                build and manage websites without extensive coding knowledge. At Craete Tech, our developers will
                 benefit you with custom plugins to add new features, integrating third-party services, editing theme
                 files, adding custom code, and utilizing hooks and filters and many more.
               </p>

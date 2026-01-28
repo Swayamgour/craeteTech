@@ -124,7 +124,7 @@ export default function WebDevelopmentPage() {
     {
       question: "Which is the best website development company in Kanpur?",
       answer:
-        "Riveyra Infotech is recognized as one of the leading web development companies in Kanpur, offering comprehensive solutions with over 8 years of experience.",
+        "Craete Tech is recognized as one of the leading web development companies in Kanpur, offering comprehensive solutions with over 8 years of experience.",
     },
     {
       question: "What are the various web development services?",
@@ -296,7 +296,7 @@ export default function WebDevelopmentPage() {
                     </p>
                     <p className="text-gray-300 leading-relaxed text-sm sm:text-base lg:text-lg">
                       But to achieve this, you need the best web design company that not only makes stunning front-end
-                      but is potent, friendly as well. At Riveyra Infotech, we utilize leading technologies to develop
+                      but is potent, friendly as well. At Craete Tech, we utilize leading technologies to develop
                       and enhance your brand's online presence.
                     </p>
                   </div>
@@ -330,7 +330,7 @@ export default function WebDevelopmentPage() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Riveyra Infotech</title>
+    <title>Craete Tech</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -349,7 +349,7 @@ export default function WebDevelopmentPage() {
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Riveyra Infotech</h1>
+        <h1>Welcome to Craete Tech</h1>
     </div>
 </body>
 </html>`}

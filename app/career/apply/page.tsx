@@ -77,7 +77,7 @@ export default function JobApplicationPage() {
   const jobDetails = {
     "Laravel Developer": {
       description:
-        "Riveyra Infotech Private Limited is seeking a talented Laravel Developer with 1 year of experience to join our team. You'll play a key role in developing robust web applications, leveraging the power of Laravel framework. If you are passionate about coding and eager to grow in a dynamic environment, we'd love to hear from you!",
+        "Craete Tech Private Limited is seeking a talented Laravel Developer with 1 year of experience to join our team. You'll play a key role in developing robust web applications, leveraging the power of Laravel framework. If you are passionate about coding and eager to grow in a dynamic environment, we'd love to hear from you!",
       responsibilities: [
         "Develop and maintain web applications using Laravel framework.",
         "Collaborate with frontend developers to integrate user-facing elements.",
@@ -95,7 +95,7 @@ export default function JobApplicationPage() {
     },
     "PHP Developer": {
       description:
-        "Riveyra Infotech Private Limited is seeking a skilled PHP Developer with 2-3 years of experience to join our development team. You'll be responsible for creating dynamic web applications and maintaining existing systems.",
+        "Craete Tech Private Limited is seeking a skilled PHP Developer with 2-3 years of experience to join our development team. You'll be responsible for creating dynamic web applications and maintaining existing systems.",
       responsibilities: [
         "Develop and maintain PHP-based web applications.",
         "Write clean, well-documented code following best practices.",
@@ -113,7 +113,7 @@ export default function JobApplicationPage() {
     },
     "React Developer": {
       description:
-        "Riveyra Infotech Private Limited is looking for a talented React Developer with 2-3 years of experience to build user interfaces for our web applications.",
+        "Craete Tech Private Limited is looking for a talented React Developer with 2-3 years of experience to build user interfaces for our web applications.",
       responsibilities: [
         "Develop user interface components using React.js.",
         "Build reusable components and front-end libraries.",

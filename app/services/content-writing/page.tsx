@@ -78,7 +78,7 @@ export default function ContentWritingPage() {
 
   const faqs = [
     {
-      question: "What types of content does Riveyra Infotech specialize in writing?",
+      question: "What types of content does Craete Tech specialize in writing?",
       answer:
         "We specialize in various types of content including business writing, web content, SEO copywriting, articles, newsletters, ebooks, blogs, technical writing, and press releases. Our team creates content that is professional, engaging, and tailored to your specific business needs.",
     },

@@ -115,7 +115,7 @@ export default function AndroidAppDevelopmentPage() {
 
   const faqs = [
     {
-      question: "Why should one choose Riveyra Infotech Private Limited for Android App Development?",
+      question: "Why should one choose Craete Tech Private Limited for Android App Development?",
       answer:
         "We have 8+ years of experience in mobile app development with a proven track record of delivering high-quality Android applications. Our team uses the latest technologies and follows industry best practices to ensure your app stands out in the market.",
     },
@@ -192,7 +192,7 @@ export default function AndroidAppDevelopmentPage() {
               >
                 App development is a multidisciplinary field that involves designers, developers, project managers, and
                 quality assurance teams. If you are looking for services like mobile app development, android app
-                development etc collaborate and invest with best in Kanpur Riveyra Infotech Private Limited.
+                development etc collaborate and invest with best in Kanpur Craete Tech Private Limited.
               </motion.p>
 
               <motion.div

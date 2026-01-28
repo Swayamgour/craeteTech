@@ -91,7 +91,7 @@ export default function AboutSection() {
             transition={{ duration: 0.8, delay: 0.4 }}
             viewport={{ once: true }}
           >
-            Riveyra Infotech is a well-known software development company based in Kanpur with over 5 years of
+            Craete Tech is a well-known software development company based in Kanpur with over 5 years of
             experience. It is trusted for delivering reliable and efficient services to clients across India.
           </motion.p>
         </div>

@@ -58,22 +58,22 @@ export default function SEOServicePage() {
 
   const faqs = [
     {
-      question: "1. What makes Riveyra Infotech's approach to SEO unique?",
+      question: "1. What makes Craete Tech's approach to SEO unique?",
       answer:
-        "Riveyra Infotech combines industry knowledge, meticulous preparation, and ongoing optimization to deliver noticeable outcomes. Our approach is tailored to your specific needs, focusing on increasing conversion rates, website traffic, and brand awareness.",
+        "Craete Tech combines industry knowledge, meticulous preparation, and ongoing optimization to deliver noticeable outcomes. Our approach is tailored to your specific needs, focusing on increasing conversion rates, website traffic, and brand awareness.",
     },
     {
-      question: "2. How does Riveyra Infotech ensure my website ranks higher on search engines?",
+      question: "2. How does Craete Tech ensure my website ranks higher on search engines?",
       answer:
         "We employ a blend of social signals, content marketing, on-page and off-page optimization, and continuous monitoring of Google algorithm updates to ensure your site is SEO friendly and achieves higher rankings.",
     },
     {
-      question: "3. What ongoing support does Riveyra Infotech provide after implementing SEO strategies?",
+      question: "3. What ongoing support does Craete Tech provide after implementing SEO strategies?",
       answer:
         "We provide detailed analytics and reporting, regularly monitor and adjust bids, test various ad elements, incorporate industry best practices, and stay abreast of the latest trends and updates in SEO platforms.",
     },
     {
-      question: "4. How does Riveyra Infotech measure the success of SEO campaigns?",
+      question: "4. How does Craete Tech measure the success of SEO campaigns?",
       answer:
         "We measure success through key metrics such as increased conversion rates, website traffic, brand awareness, and return on investment (ROI). We provide transparent reporting on these outcomes.",
     },

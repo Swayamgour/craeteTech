@@ -54,12 +54,12 @@ export default function DigitalMarketingPage() {
         "Email marketing allows direct communication with your audience, fosters customer loyalty, promotes products/services, and drives conversions through personalized and timely messages.",
     },
     {
-      question: "What ongoing support does Riveyra Infotech Private Limited provide?",
+      question: "What ongoing support does Craete Tech Private Limited provide?",
       answer:
         "We offer continuous monitoring, analysis, and optimization of your digital marketing campaigns, adapting strategies to market changes and ensuring sustained performance.",
     },
     {
-      question: "Can Riveyra Infotech Private Limited create engaging content for my business?",
+      question: "Can Craete Tech Private Limited create engaging content for my business?",
       answer:
         "Our team specializes in crafting compelling and relevant content across various formats to engage your target audience and support your marketing goals.",
     },

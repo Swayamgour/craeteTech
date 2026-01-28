@@ -249,7 +249,7 @@ export default function Navbar () {
                 <img
                   // src='/logo.png'
                   src={getAsset('/logo1.png')}
-                  alt='Riveyra Infotech'
+                  alt='Craete Tech'
                   className='w-40 h-10 sm:w-52 sm:h-12 md:w-60 md:h-14 object-contain'
                 />
               </div>

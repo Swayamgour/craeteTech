@@ -228,7 +228,7 @@ export default function CareerPage() {
               >
                 Career and Culture at{" "}
                 <span className="bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
-                  Riveyra Infotech
+                  Craete Tech
                 </span>
               </motion.h1>
 
@@ -273,7 +273,7 @@ export default function CareerPage() {
               >
                 <img
                   src="https://riveyrainfotech.com/images/services/thumbs-up.png"
-                  alt="Career at Riveyra Infotech"
+                  alt="Career at Craete Tech"
                   className="w-90 h-100 rounded-2xl shadow-2xl shadow-green-500/20"
                 />
 

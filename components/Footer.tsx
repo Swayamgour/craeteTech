@@ -135,8 +135,8 @@ export default function Footer () {
               <div className='flex items-center space-x-3'>
                 <div className='w-48 sm:w-60 h-12 sm:h-14 bg-transparent rounded-xl flex items-center justify-center'>
                   <motion.img
-                    src={getAsset('/logo.png')}
-                    alt='Riveyra Infotech Logo'
+                    src={getAsset('/logo1.png')}
+                    alt='Craete Tech Logo'
                     className='w-full h-full object-contain'
                     initial={{ scale: 0.8, opacity: 0 }}
                     whileInView={{ scale: 1, opacity: 1 }}
@@ -294,7 +294,7 @@ export default function Footer () {
             viewport={{ once: true }}
           >
             <p className='text-gray-400 text-sm'>
-              Copyright © 2025, All Right Reserved Made by Riveyra Infotech
+              Copyright © 2025, All Right Reserved Made by Craete Tech
             </p>{' '}
            
           </motion.div>

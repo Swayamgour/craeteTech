@@ -267,7 +267,7 @@ export default function GraphicDesignPage() {
             <div className="hero-content">
               <p className="text-lg text-gray-300 leading-relaxed mb-8">
                 Graphic Design serves as a potent mode of visual communication, bridging the connection between content
-                and its audience. At Riveyra Infotech, we specialize in crafting tailor-made designs to elevate your
+                and its audience. At Craete Tech, we specialize in crafting tailor-made designs to elevate your
                 branding, encompassing Graphic design services such as custom logo designs, business card designs,
                 catalogue design, UI/UX graphic design, print designs and much more. Our experienced and creative
                 Graphic Designers are adept professionals dedicated to enhancing your visual presence with our graphic
@@ -281,7 +281,7 @@ export default function GraphicDesignPage() {
                 plays a pivotal role in capturing audience attention. Strong, compelling graphics helps creating brand's
                 distinctive visual identity, effectively driving marketing and advertising campaigns, triggers emotions,
                 improves user experience and delivering numerous other invaluable benefits. Make a wise choice and
-                choose the best in Kanpur- Riveyra Infotech.
+                choose the best in Kanpur- Craete Tech.
               </p>
             </div>
 

@@ -168,12 +168,12 @@ export default function ContentMarketingPage() {
         "We create a wide variety of content including blog posts, articles, whitepapers, case studies, infographics, social media content, email campaigns, product descriptions, technical articles, and multimedia content tailored to your specific needs.",
     },
     {
-      question: "How frequently does Riveyra Infotech recommend updating content on our website?",
+      question: "How frequently does Craete Tech recommend updating content on our website?",
       answer:
         "We recommend updating content regularly based on your industry and audience needs. Typically, we suggest publishing new blog content 2-4 times per week, updating existing content quarterly, and maintaining an active social media presence with daily posts.",
     },
     {
-      question: "How does Riveyra Infotech ensure that content resonates with our target audience?",
+      question: "How does Craete Tech ensure that content resonates with our target audience?",
       answer:
         "We conduct thorough audience research, analyze competitor strategies, and use data-driven insights to understand your target market's preferences, pain points, and behavior patterns. This ensures our content speaks directly to your audience's needs and interests.",
     },
@@ -263,7 +263,7 @@ export default function ContentMarketingPage() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 0.4 }}
                   >
-                    At Riveyra Infotech, we take great satisfaction in offering our clients content marketing services
+                    At Craete Tech, we take great satisfaction in offering our clients content marketing services
                     of the highest grade that provide noticeable outcomes.
                   </motion.p>
                   <motion.p
