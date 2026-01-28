@@ -17,7 +17,7 @@ import { getAsset } from '@/components/util/getAsset'
 
 gsap.registerPlugin(ScrollTrigger)
 
-export default function Home () {
+export default function Home() {
   const [showLoader, setShowLoader] = useState(true)
 
   useEffect(() => {
@@ -110,7 +110,7 @@ export default function Home () {
             >
               <div className='relative w-60 h-40  rounded-2xl flex items-center justify-center mb-6 mx-auto shadow-2xl border border-green-500/20 overflow-hidden'>
                 <Image
-                  src={getAsset('/loader.gif')}
+                  src={'/loader.gif'}
                   alt='Logo'
                   fill
                   className='object-cover rounded-2xl '
